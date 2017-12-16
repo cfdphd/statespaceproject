@@ -1,0 +1,9 @@
+December 16, 2017
+
+This directory is to start work on state space solutions to transonic flow problems and eventually utilise some machine learning algorithms to update flow fields.
+
+First we need to establish a simple transonic flow solution with a state space formulation.
+
+Second, we will combine this solution with a simple structural model to create an aeroelastic solution.
+
+Third, we will try to update using machine learning.
